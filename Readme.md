@@ -25,7 +25,15 @@ What I own personally:
 - **FinOps** — right-sizing and resource utilization analysis on a multi-service AWS estate.
 - **Observability** — deployed centralized TIG stack (Telegraf, InfluxDB, Grafana) for real-time visibility; New Relic for database cutover monitoring.
 
-Published 3 technical articles on **AWS in Plain English** (3.5M+ readers).
+Published technical articles on **AWS in Plain English** (3.5M+ readers).
+
+---
+
+## Currently
+
+- 🔧 Building public Terraform modules for AWS ECS workload patterns
+- 📖 Studying for **CKA** (Certified Kubernetes Administrator)
+- ✍️ Writing about production AWS data layer upgrade strategies on Medium
 
 ---
 
@@ -81,8 +89,12 @@ Published 3 technical articles on **AWS in Plain English** (3.5M+ readers).
 
 Technical articles published in **AWS in Plain English** on Medium (3.5M+ readers):
 
-- [The Stress-Free Guide to AWS OpenSearch Upgrades](https://medium.com/@shubham-aggarwal) — zero-downtime major version upgrade strategy for production clusters
-- More articles → [medium.com/@shubham-aggarwal](https://medium.com/@shubham-aggarwal)
+- [Surviving the AWS OpenSearch TLS Upgrade: How to Update, What Breaks, and the Escape Hatch](https://medium.com/p/59c01cbb5811) — fixing deprecated TLS 1.0/1.1 on production OpenSearch domains
+- [The Stress-Free Guide to AWS OpenSearch Upgrades (and How to Undo Them)](https://medium.com/p/a4a00e4e4b41) — zero-downtime major version upgrade strategy with rollback
+- [The DIY Guide to AWS NAT Instances: Save Money and Control Traffic](https://medium.com/p/033d082f020c) — cutting NAT Gateway costs with self-managed NAT instances
+- [Deploy Jenkins on Docker: The Definitive Guide for Your First CI/CD](https://medium.com/p/3e51149bd366) — containerised Jenkins setup for CI/CD pipelines
+
+→ [All articles on Medium](https://medium.com/@shubham-aggarwal)
 
 ---
 
@@ -91,6 +103,8 @@ Technical articles published in **AWS in Plain English** on Medium (3.5M+ reader
 <div align="center">
 
 ![Shubham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhamaggarwal828&show_icons=true&theme=dark&hide_border=true&count_private=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=shubhamaggarwal828&theme=dark&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamaggarwal828&layout=compact&theme=dark&hide_border=true)
 
